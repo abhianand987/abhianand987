@@ -1,5 +1,10 @@
 <h1 > Hello, I'm Abhishek Anand! </h1>
 
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 I'm a passionate Software Enthusiast with a strong foundation in Mathematics and Computer Science Fundamentals.
 I'm having keen interest in Competitive Programming ,Machine Learning and I am obsessed with the idea of using software to solve real-world problems.
 
